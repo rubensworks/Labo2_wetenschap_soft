@@ -1,3 +1,3 @@
 # Labo2_wetenschap_soft
 
-this code is private and owned by Willem Melis stay away
+this code is public and owned by no one, welcome
